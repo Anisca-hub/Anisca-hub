@@ -1,19 +1,10 @@
-Hi, I’m Anisca Jha 👋
-A Computer Engineering student passionate about building intelligent, scalable and immersive software solutions using AI/ML, AR/VR, and modern development frameworks.
-
-👩‍💻 About Me
-🔭 Currently working on:
-AI-powered applications, AR/VR projects using Unity & AR Foundation and data-driven software systems.
-🌱 Currently learning:
-Advanced Artificial Intelligence & Machine Learning, MERN stack development, cloud computing and software engineering best practices.
-👯 Looking to collaborate on:
-Innovative projects in AI/ML, AR/VR, full-stack development and socially impactful technology solutions.
-🤝 Looking for help with:
-Model optimization, real-world AI deployment, scalable architectures and research-oriented projects.
-💬 Ask me about:
-Python development, AI/ML projects, AR/VR applications, database design and end-to-end project development.
-⚡ Fun fact:
-I enjoy converting complex technical ideas into intuitive, user-friendly and visually engaging solutions.
+💫 About Me:
+🔭 I’m currently working on: AI-powered applications, AR/VR-based projects and Data-Driven software solutions using Python, Unity and Modern Web Technologies.
+👯 I’m looking to collaborate on: Innovative projects in Artificial Intelligence, Machine Learning, AR/VR, Full-Stack Development and impactful Real-World Applications.
+🤝 I’m looking for help with: Advanced AI model optimization, Scalable system architecture and deploying intelligent applications in real-world environments.
+🌱 I’m currently learning: Advanced AI/ML techniques, MERN stack development, AR Foundation, Cloud Computing and Software Engineering best practices. 
+💬 Ask me about: Python development, AI/ML projects, AR/VR applications, Database Management and End-to-End project development.
+⚡ Fun fact: I enjoy turning Complex Technical ideas into Intuitive, Visually Engaging and User-Friendly solutions.
 
 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Anisca Jha) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anisca_jha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anisca Jha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniscajha@gmail.com) 
@@ -26,5 +17,4 @@ I enjoy converting complex technical ideas into intuitive, user-friendly and vis
 ![](https://nirzak-streak-stats.vercel.app/?user=Anisca-hub&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anisca-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
+[![](https://visitcount.itsvg.in/api?id=Anisca-hub&icon=0&color=0)](https://visitcount.itsvg.in)
