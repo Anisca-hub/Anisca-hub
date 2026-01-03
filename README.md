@@ -17,4 +17,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Anisca-hub&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anisca-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=Anisca-hub&icon=0&color=0)](https://visitcount.itsvg.in)
+🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Anisca-hub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Anisca-hub&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
